@@ -33,7 +33,7 @@
     - 데이터 출처
         - 라이브러리 사용
             - import FinanceDataReader as fdr : FinanceDataReader-[FinanceData/FinanceDataReader: Financial data reader (github.com)](https://github.com/FinanceData/FinanceDataReader)
-            - USD/KRW, KOSPI, 2003~2024/06/05
+            - USD/KRW, KOSPI, 2003~2024/06/05, 각각 약 5000개의 데이터, 총 10000개의 데이터
     - 데이터 타입: 시계열 데이터
     - 데이터 크기:
       훈련 데이터: 80%,테스트 데이터: 20%
