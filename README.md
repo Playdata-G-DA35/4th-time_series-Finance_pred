@@ -8,4 +8,4 @@
         -이상준
 - 산출물 파일 링크
 
-  [모델링 기법 선정 보고서.md]<https://github.com/Playdata-G-DA35/4th-time_series-Finance_pred/commit/37708231619a753e9465f9901dddbd6da4588faf>
+  [모델링 기법 선정 보고서.md](https://github.com/Playdata-G-DA35/4th-time_series-Finance_pred/commit/37708231619a753e9465f9901dddbd6da4588faf)
