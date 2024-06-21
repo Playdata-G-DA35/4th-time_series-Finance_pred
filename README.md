@@ -8,7 +8,7 @@
       - 데이터 수집 및 정제, 데이터베이스 설계 및 관리, 데이터 전처리 및 변환 작업, 데이터 파이프라인 구축,   
         데이터 분석 및 통계적 모델링 시계열 예측 모델 개발 및 검증, 오버피팅 문제 해결을 위한 실험 설계 및 수행, 모델 성능 평가 및 튜닝
 
-- ![산출물 링크](4th_time_series)
+- [산출물 링크](4th_time_series)
   
   
 
@@ -52,16 +52,16 @@
 ## 1. 모델링 기법 후보
 - 고려된 모델링 기법
      - LSTM (Long Short-Term Memory)
+         - LSTM과 GRU: 단일 Sequential 구조
      - GRU (Gated Recurrent Unit)
      - Transformer 기반 모델 (TimeGPT)
-    
-    - LSTM과 GRU: 단일 Sequential 구조
-      Transformer: Seq2Seq 구조
+          -Transformer: Seq2Seq 구조
 
     - Pretrained 모델을 사용한 경우 고려한 모델들
         - Transformer 기반 모델 (TimeGPT)
 
 ### 1. 모델 선정 기준 및 모델링 기법들 비교
+
 - 모델 선정 기준
     - 성능 지표 (ex: 정확도, Loss 점수, F1 점수 등 )
  
