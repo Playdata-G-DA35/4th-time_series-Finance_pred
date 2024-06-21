@@ -45,9 +45,9 @@
     - 종가를 기준으로 예측모델 생성
 ## 1. 모델링 기법 후보
 - 고려된 모델링 기법
-     -LSTM (Long Short-Term Memory)
-      GRU (Gated Recurrent Unit)
-      Transformer 기반 모델 (TimeGPT)
+     - LSTM (Long Short-Term Memory)
+     - GRU (Gated Recurrent Unit)
+     - Transformer 기반 모델 (TimeGPT)
     
     - LSTM과 GRU: 단일 Sequential 구조
       Transformer: Seq2Seq 구조
