@@ -50,13 +50,12 @@
     - 데이터 변환: MinMaxScaler를 사용한 정규화
     - 데이터 증강: 시계열 윈도우 기법을 사용하여 데이터 생성
     - 종가를 기준으로 예측모델 생성
+    - 
 ## 1. 모델링 기법 후보
 - 고려된 모델링 기법
-     - LSTM (Long Short-Term Memory)
-         - LSTM과 GRU: 단일 Sequential 구조
+     - LSTM (Long Short-Term Memory)-LSTM과 GRU: 단일 Sequential 구조
      - GRU (Gated Recurrent Unit)
-     - Transformer 기반 모델 (TimeGPT)
-          -Transformer: Seq2Seq 구조
+     - Transformer 기반 모델 (TimeGPT)-Transformer: Seq2Seq 구조
 
     - Pretrained 모델을 사용한 경우 고려한 모델들
         - Transformer 기반 모델 (TimeGPT)
