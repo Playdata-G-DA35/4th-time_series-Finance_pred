@@ -8,8 +8,7 @@
       - 데이터 수집 및 정제, 데이터베이스 설계 및 관리, 데이터 전처리 및 변환 작업, 데이터 파이프라인 구축,   
         데이터 분석 및 통계적 모델링 시계열 예측 모델 개발 및 검증, 오버피팅 문제 해결을 위한 실험 설계 및 수행, 모델 성능 평가 및 튜닝
 
-- [산출물 링크](4th_time_series)
-  
+- [산출물 링크](https://github.com/Playdata-G-DA35/4th-time_series-Finance_pred/tree/main/4th_time_series)
   
 
 
